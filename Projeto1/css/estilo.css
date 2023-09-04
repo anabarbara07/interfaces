@@ -1,0 +1,17 @@
+body{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtwzd8eG8qNGkoy0u4grwBL2zecldNPgboSw&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+h1{
+ color: #ffd000;
+ font-size: 50px;
+}
+
+p{
+    text-align:justify;
+    color:rgb(255, 0, 0);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 22px;
+}
